@@ -1,0 +1,62 @@
+.fm { 
+display: flex;
+justify-content: space-around;
+    background-color: white;
+    height: 250px;
+    padding: 50px;
+    margin: 20px;
+}
+.f1{
+ position: relative;
+ right: 60px;
+    width: 450px;
+}
+.f3{
+position: relative;
+left: 290px;
+    width: 200px;
+}
+.f2{
+    position: relative;
+    left: 200px;
+    width: 350px;
+}
+.f3 a {
+    color: rgba(117, 212, 22, 0.736);
+    text-decoration: none;
+    display: flex;
+    justify-content:center;
+   
+    
+}
+.f2 a {
+    color: rgba(117, 212, 22, 0.736);
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 80px;
+}
+.f1 a {
+    color: rgba(117, 212, 22, 0.736);
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 180px;
+}
+.f1 h1{
+    font-size: 20px;
+}
+.f2 h1{
+    font-size: 20px;
+}
+.f3 h1{
+    font-size: 20px;
+}
+
+
+
+
+
+
